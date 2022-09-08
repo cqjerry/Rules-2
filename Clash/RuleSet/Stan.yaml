@@ -2,4 +2,9 @@ payload:
   # > Stan
   - DOMAIN-SUFFIX,stan.com.au
   - DOMAIN,aws.stan.video
+  - PROCESS-NAME,au.com.stan.and
+  - DOMAIN,streamcoimg-a.akamaihd.net
+  - DOMAIN,live01-stan.akamaized.net
+  - DOMAIN,live02-stan.akamaized.net
+  - DOMAIN-KEYWORD,stan.akamaized.net
   # DOMAIN,streamcoimg-a.akamaihd.net
